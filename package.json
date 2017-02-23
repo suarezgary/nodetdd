@@ -1,0 +1,23 @@
+{
+  "name": "nodetdd",
+  "version": "1.0.0",
+  "description": "test para usar TDD en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezgary/nodetdd.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tdd"
+  ],
+  "author": "Gary Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezgary/nodetdd/issues"
+  },
+  "homepage": "https://github.com/suarezgary/nodetdd#readme"
+}
