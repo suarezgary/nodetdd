@@ -2,9 +2,9 @@
   "name": "nodetdd",
   "version": "1.0.0",
   "description": "test para usar TDD en NodeJS",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
